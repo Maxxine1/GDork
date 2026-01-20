@@ -7,6 +7,6 @@ How to use GDork;
 
 1) Enter your target url, here
 
-![GDork UI screenshot](GDork/assets/Screenshot_20260121-005020.png.png)
+![GDork UI screenshot](assets/Screenshot_20260121-005020.png.png)
 
 Enjoy.
